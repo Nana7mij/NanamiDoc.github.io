@@ -1,14 +1,10 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+# Nana7mij の技术文档
 
-# docsify <small>3.5</small>
+> 这是一个基于 SpringBoot+Vue3 的前后端分离式仓库管理系统の文档
 
-> A magical documentation site generator.
+- Copyright © 2023 Nana7mij All Rights Reserved.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[雾隐花川夜](https://space.bilibili.com/38518708)
+[开始阅读](README.md)
