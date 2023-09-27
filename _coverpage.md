@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# Nana7mij の技术文档
+# Nanami の技术文档
 
 > 这是一个基于 SpringBoot+Vue3 的前后端分离式仓库管理系统の文档
 
